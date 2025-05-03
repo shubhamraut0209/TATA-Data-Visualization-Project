@@ -19,7 +19,6 @@ To analyze an online retail dataset and generate business insights using Power B
 ## 📊 Outputs
 - [x] Power BI Dashboard Report (`PowerBI_Dashboard_Report.docx`)
 - [x] Tableau Dashboard Report (`Tableau_Dashboard_Report.docx`)
-- [x] Online Retail Dataset (`Dataset/Online_Retail_Dataset.csv`)
 
 ## 📌 Key Insights
 - Identified top-performing product categories.
